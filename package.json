@@ -1,0 +1,11 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.5",
+    "@noir-lang/backend_barretenberg": "^0.25.0",
+    "@noir-lang/noir_js": "^0.25.0",
+    "@noir-lang/noir_wasm": "^0.25.0",
+    "@noir-lang/types": "^0.25.0"
+  }
+}
