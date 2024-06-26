@@ -15,7 +15,7 @@ bun install
 
 nargo codegen-verifier
 
-cp circuits/contracts/plonk_vk.sol contracts/UltraVerifier.sol
+cp circuits/contract/circuits/plonk_vk.sol contracts/UltraVerifier.sol
 
 bun hardhat test
 ```
